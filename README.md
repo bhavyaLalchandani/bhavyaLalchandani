@@ -3,15 +3,15 @@
 ### Tech Enthusiast • Full-Stack Developer in Training • Problem Solver
 
 ## 👋 About Me:
-Hello! I’m Bhavya, a final-year Computer Science student based in Vadodara, Gujarat, with a genuine passion for full-stack development. As a tech enthusiast, I'm always excited to dive into new projects, explore the latest in software, and push myself to learn and grow. I believe that technology can create meaningful change, and I’m driven to build applications that improve people’s lives by solving real problems.
+I'm a final-year Computer Science student based in Vadodara, Gujarat, with a genuine passion for full-stack development. As a tech enthusiast, I'm always excited to dive into new projects, explore the latest in software, and push myself to learn and grow. I believe that technology can create meaningful change, and I’m driven to build applications that improve people’s lives by solving real problems.
 
-My journey in tech began with curiosity, and over time it has become a central part of my life. Whether it’s designing user interfaces, coding backend functionality, or debugging issues, I’m constantly expanding my skills and learning new ways to build better, more efficient solutions.
+My journey in tech began with curiosity, and over time it has become a central part of my life. Whether it’s solving problems, designing user interfaces, or coding backend functionality, I’m constantly expanding my skills and learning new ways to build better, more efficient solutions.
 
 Beyond just technical skills, I love collaborating with others, sharing knowledge, and finding creative ways to approach challenges. Each project is a new opportunity to grow, and I’m always open to connecting with like-minded people who share the same enthusiasm for technology and innovation.
 
 ## 🌱 Currently Learning
 
-I’m currently diving deeper into web development and plan to learn cloud technologies, with a focus on improving my skills in JavaScript frameworks and DevOps practices.
+I’m currently diving deeper into web development and plan to learn cloud technologies, with a focus on improving my skills in JavaScript frameworks, Java and  Cloud Development.
 
 ## 🤔 Fun Fact
 
