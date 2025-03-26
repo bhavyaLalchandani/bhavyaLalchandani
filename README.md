@@ -29,7 +29,7 @@ I love meeting people who share a passion for technology and learning! Whether y
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhavyaLalchandani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhavyaLalchandani&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhavyaLalchandani)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaLalchandani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
